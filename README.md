@@ -1,2 +1,0 @@
-# osf
-osf-project
